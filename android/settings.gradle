@@ -1,0 +1,4 @@
+rootProject.name = 'flutter_qr_bar_scanner'
+include ':opencv'
+
+
